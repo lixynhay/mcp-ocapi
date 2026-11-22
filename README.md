@@ -27,7 +27,7 @@ pip install fastmcp
 **Claude Code**:
 
 ```bash
-claude mcp add mcp-ocapi python /abs/path/to/oc-mcp/server.py
+claude mcp add mcp-ocapi python /abs/path/to/mcp-ocapi/server.py
 ```
 
 ## Инструменты
