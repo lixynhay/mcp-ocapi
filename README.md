@@ -1,4 +1,4 @@
-# oc-dev — MCP-сервер для разработки под OpenComputers / OpenPeripheral
+# mcp-ocapi — MCP-сервер для разработки под OpenComputers / OpenPeripheral
 
 Офлайн-справочник по API модов + линтер типовых ошибок. Контекстная экономия:
 вместо простыни скилла агент дергает `get_component("gpu")` и получает 2 КБ.
@@ -27,7 +27,7 @@ pip install fastmcp
 **Claude Code**:
 
 ```bash
-claude mcp add oc-dev python /abs/path/to/oc-mcp/server.py
+claude mcp add mcp-ocapi python /abs/path/to/oc-mcp/server.py
 ```
 
 ## Инструменты
