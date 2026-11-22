@@ -18,7 +18,7 @@ pip install fastmcp
   "mcpServers": {
     "oc-dev": {
       "command": "python",
-      "args": ["/abs/path/to/oc-mcp/server.py"]
+      "args": ["/abs/path/to/mcp-ocapi/server.py"]
     }
   }
 }
