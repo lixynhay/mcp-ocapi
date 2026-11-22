@@ -46,7 +46,7 @@ claude mcp add mcp-ocapi python /abs/path/to/oc-mcp/server.py
 ## Структура
 
 ```
-oc-mcp/
+mcp-ocapi/
   server.py            # MCP-сервер (FastMCP, stdio)
   data/
     components/*.md    # API компонентов
